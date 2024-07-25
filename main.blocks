@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="x3WQZ4{QE:}euN-A3=px" x="0" y="0"></block><block type="device_forever" id="[^03X^8MJFbPu)=`1?NX" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="RadioMessage" id="utv#Cyr9@jjdr4c5k#S*">0message1</variable><variable type="RadioMessage" id="UUT`yY79R*#Q.CBEd[Eu">0manual_water</variable><variable type="RadioMessage" id="eWf0L`8x-s7.4AhBMHVY">0auto_water</variable></variables><block type="pxt-on-start" id="x3WQZ4{QE:}euN-A3=px" x="0" y="0"><statement name="HANDLER"><block type="radio_set_group" id="Gso?E]o5CUPtN;h!~=%x"><value name="ID"><shadow type="math_number_minmax" id="r?l!3;ETx:?#K^DPHFKW"><mutation min="0" max="255" label="Id" precision="0"></mutation><field name="SLIDER">99</field></shadow></value></block></statement></block><block type="radioOnMessageReceived" id="T)Wt@h2nU[%B_EvmvPh=" x="-2" y="144"><value name="msg"><shadow type="radioMessageCode" id="dE[n6L=kI5cmd/_/|?Ki"><field name="MEMBER">0manual_water</field></shadow></value><statement name="HANDLER"><block type="device_show_leds" id="`W)^A#(XD?4?UMrJS;;M"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . # # # . 
+        . # # # . 
+        . . # . .
+        `</field></block></statement></block></xml>
